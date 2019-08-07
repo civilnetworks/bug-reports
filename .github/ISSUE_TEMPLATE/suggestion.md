@@ -14,4 +14,4 @@ assignees: ''
 
 **Alternatives Considered** <!-- Any other ways it could be implemented? -->
 
-**Additional Context** <!-- What were you doing as you thought of this suggestion? -->
+**Additional Context** <!-- What were you doing that made you think about this suggestion? -->
