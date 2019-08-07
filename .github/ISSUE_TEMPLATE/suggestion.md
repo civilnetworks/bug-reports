@@ -2,7 +2,7 @@
 name: Suggestion
 about: Suggest an idea to improve CG
 title: Untitled Suggestion
-labels: enhancement
+labels: suggestion
 assignees: ''
 
 ---
