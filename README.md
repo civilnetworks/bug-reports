@@ -1,4 +1,4 @@
-#  <img width="48px" src="https://user-images.githubusercontent.com/46431715/66693895-e9d9ac00-ec7b-11e9-88f1-f67f242f04a8.png"> CivilGamers Bug Reports
+<h1><img style="vertical-align: text-bottom; padding-right: 0.5em" src="https://user-images.githubusercontent.com/46431715/66693895-e9d9ac00-ec7b-11e9-88f1-f67f242f04a8.png" alt="CivilGamers Logo" width="32px" height="32px">CivilGamers Bug Reports</h1>
 This is for CG / CC bug reports. Reports against players, however, should instead be made in-game by using "@\<message\>" or in a post on our [forums][Complaints]. You can make a bug report on GitHub [here][Bug Report] or by typing "!bugreport" anytime in-game.
 
 **Abusable, game-breaking, or otherwise sensitive bugs and exploits** should be addressed to a Senior Admin, a Super Admin, or Management privately. Abusing these bugs without reporting them *will* lead to a permanent ban, but doing so may lead to receiving a bug bounty!
