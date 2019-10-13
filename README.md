@@ -5,7 +5,7 @@ This is for bug reports about the CivilGamers DarkRP server and the CivilCity Ci
 
 # Testing
 
-There are a lot of issues on the repository, so if you want to assist with the repo, check any issues labeled with "Need Verification" or "Need Info", and provide consistant steps to reproduce alongside evidence or information about the issue.
+There are a lot of issues on the repository, so if you want to assist with the repo, check any [issues labeled with "Need Verification"][Verify] or "Need Info", and provide consistant steps to reproduce them alongside evidence or information about it.
 
 <!-- Links -->
 [Complaints]: https://www.civilgamers.com/forum/m/18343296/viewforum/3788723
