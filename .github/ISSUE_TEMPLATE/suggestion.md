@@ -1,6 +1,6 @@
 ---
 name: Suggestion
-about: Suggest an idea to improve CivilGamers
+about: Suggest an idea to improve the community.
 title: Untitled Suggestion
 labels: Suggestion
 assignees: ''
