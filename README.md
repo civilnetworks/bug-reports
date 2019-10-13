@@ -3,6 +3,10 @@ This is for bug reports about the CivilGamers DarkRP server and the CivilCity Ci
 
 **Abusable, game-breaking, or otherwise sensitive bugs and exploits** should be addressed to a Senior Admin, a Super Admin, or Management *privately*. Abusing these bugs without reporting them *will* lead to a permanent ban, so report them and you may receive a bug bounty!
 
+# Testing
+
+There are a lot of issues on the repository, so if you want to assist with the repo, check any issues labeled with "Need Verification", and put down your suggested steps to reproduce alongside evidence supporting them.
+
 <!-- Links -->
 [Complaints]: https://www.civilgamers.com/forum/m/18343296/viewforum/3788723
 [Bug Report]: ../../issues/new?assignees=&labels=bug&template=bug-report.md&title=Untitled+Bug+Report
