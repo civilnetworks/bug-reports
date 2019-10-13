@@ -1,17 +1,24 @@
 ---
 name: Suggestion
-about: Suggest an idea to improve CG
+about: Suggest an idea to improve CivilGamers
 title: Untitled Suggestion
-labels: suggestion
+labels: Suggestion
 assignees: ''
 
 ---
 
-<!-- Don't forget to create a title! -->
-**Related Problem** <!-- If anything, what frustrated you and brought you to make this issue? -->
+<!--
+Don't forget to create a title!
+-->
+### Summary
 
-**Preferred Solution** <!-- How would you like things to change?-->
+<!-- Provide a brief rundown of the idea to be implemented. -->
+**Alternatives**
 
-**Alternatives Considered** <!-- Any other ways it could be implemented? -->
+<!-- Briefly describe any alternatives considered. -->
+### Motivation
 
-**Additional Context** <!-- What were you doing that made you think about this suggestion? -->
+<!-- What brought you to make an issue? What is the goal? -->
+**Context**
+
+<!-- Add any additional context, screenshots, or videos. -->
