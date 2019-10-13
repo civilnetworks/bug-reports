@@ -5,11 +5,12 @@ This is for bug reports about the CivilGamers DarkRP server and the CivilCity Ci
 
 # Testing
 
-There are a lot of issues on the repository, so if you want to assist with the repo, check any issues labeled with "Need Verification", and put down your suggested steps to reproduce alongside evidence supporting them.
+There are a lot of issues on the repository, so if you want to assist with the repo, check any issues labeled with "Need Verification" or "Need Info", and provide consistant steps to reproduce alongside evidence or information about the issue.
 
 <!-- Links -->
 [Complaints]: https://www.civilgamers.com/forum/m/18343296/viewforum/3788723
 [Bug Report]: ../../issues/new?assignees=&labels=bug&template=bug-report.md&title=Untitled+Bug+Report
+[Verify]: ../../issues?q=is%3Aopen+is%3Aissue+label%3A"Needs+Verification"
 
 [Website]: https://www.civilgamers.com/
 [Forums]: https://www.civilgamers.com/forum/
