@@ -1,7 +1,7 @@
 # CivilGamers Bug Reports
 This is for bug reports about the CivilGamers DarkRP server and the CivilCity CityRP server. Reports against players, however, should instead be made in-game by using "@\<message\>" or made in a post over on our [forums][Complaints]. You can make bug reports on the CivilGamers's GitHub [here][Bug Report] or by typing "!bugreport" in-game at anytime.
 
-**Abusable, game-breaking, or otherwise sensitive bugs and exploits** should be addressed to a Senior Admin, a Super Admin, or Management privately. Abusing these bugs without reporting them *will* lead to a permanent ban, so report them and you may receive a bug bounty!
+**Abusable, game-breaking, or otherwise sensitive bugs and exploits** should be addressed to a Senior Admin, a Super Admin, or Management *privately*. Abusing these bugs without reporting them *will* lead to a permanent ban, so report them and you may receive a bug bounty!
 
 <!-- Links -->
 [Complaints]: https://www.civilgamers.com/forum/m/18343296/viewforum/3788723
